@@ -1,0 +1,120 @@
+
+,body{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.header{
+    background-color: black;
+    height: 73px;
+    overflow: hidden;
+
+}
+.header h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 11.5px;
+    background-size: cover;
+    text-align: center;
+}
+#imagen{
+    height: 727px;
+    background-image: url(../img/bg-header.jpg)
+
+}
+
+#fondo{
+    background-color: black;
+    overflow: hidden;
+ }
+.texto {
+  width: 35%;
+  padding-left: 200px;
+  margin: 20px;
+  color: white;
+  margin-top: 40px;
+  text-align: justify;
+  
+}
+ .imagen1 {
+    background-image: url(../img/iguana-1.jpg);
+    overflow: hidden;
+    float: right;
+    height: 220px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+ }
+ #fondo{
+    background-color: black;
+    overflow: hidden;
+ }
+
+ .iconos{
+    background-color: brown;
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    
+ }
+ .iconos i{
+    display: block;
+    font-size: 40px;
+    margin-top: 30px;
+
+ }
+ .iconos h2{
+    font-size: 40px;
+    margin-top: 10px;
+    background-size: cover;
+    text-align: center;
+    
+ }
+ .caract{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    font-size: 20px;
+ }
+ 
+ #tercera_parte{
+    background-color: black;
+    height: 300px;
+    overflow: hidden;
+    width: 100%;
+    background-size: cover;
+ }
+
+ .imagen2{
+    width: 20%; 
+    padding: 30px;
+    overflow: hidden;
+    margin-left: 217px;
+    display: inline-block;
+    
+    
+ }
+ .imagen3{
+    width: 20%;
+    padding: 30px;
+    overflow: hidden;
+    display: inline-block;
+    
+ }
+ .imagen4{
+    width: 20%;
+    padding: 30px;
+    overflow: hidden;
+    display: inline-block;
+    
+ }
+ .footer{
+    background-color: brown;
+    height: 60px;
+    overflow: hidden;
+    text-align: center;
+ }
+ .footer p{
+    font-size: 20px;
+    margin-top: 20px;
+ }
